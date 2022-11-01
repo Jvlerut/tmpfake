@@ -1,0 +1,38 @@
+#divGrupos {
+    position: absolute;
+    width: 49%;
+    height: 50%;
+    background-color: red;
+    overflow: scroll;
+    top: 2%;
+    left: 1%;
+}
+#divCanales {
+    position: absolute;
+    width: 49%;
+    height: 50%;
+    background-color: green;
+    overflow: scroll;
+    top: 2%;
+    left: 51%;
+}
+
+#divPorcentaje {
+    display: none;
+    position: relative;
+    width: 95%;
+    top: 5%;
+    left: 4%;
+    background-color: black;
+    color: white;
+}
+#divBotones {
+    position: relative;
+    top: 55%;
+}
+#divGruposSeleccionados {
+    position: relative;
+    top: 58%;
+    height: 39%;
+    background-color: pink;
+}
